@@ -1,0 +1,14 @@
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\TrackingModele.DAL.csproj.AssemblyReference.cache
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\TrackingModele.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\TrackingModele.DAL.AssemblyInfoInputs.cache
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\TrackingModele.DAL.AssemblyInfo.cs
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\TrackingModele.DAL.csproj.CoreCompileInputs.cache
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\bin\Debug\net7.0\TrackingModele.DAL.deps.json
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\bin\Debug\net7.0\TrackingModele.DAL.runtimeconfig.json
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\bin\Debug\net7.0\TrackingModele.DAL.dll
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\bin\Debug\net7.0\TrackingModele.DAL.pdb
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\TrackingModele.DAL.dll
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\refint\TrackingModele.DAL.dll
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\TrackingModele.DAL.pdb
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\TrackingModele.DAL.genruntimeconfig.cache
+D:\TrackingModuleProj\TrackingModule\TrackingModele.DAL\obj\Debug\net7.0\ref\TrackingModele.DAL.dll

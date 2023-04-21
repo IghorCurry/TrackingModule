@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ITFo/B8zyOCkzGjAu8lWTxRxy8o4FyZVLrPiQfm/uAU=",
+  "Source": "TrackingModule.WebApi",
+  "BasePath": "_content/TrackingModule.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
